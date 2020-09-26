@@ -7,5 +7,5 @@ def Average(x,y):
 def Apower(x,y):
     return x**y
 
-def loadAll():
-    return globals()
+def LoadX():
+    return locals()
