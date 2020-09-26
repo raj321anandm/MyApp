@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(name='mypackage',
-        version='0.1',
+        version='0.2',
         description='Testing installation of package',
         url='#',
         author='Anand Raj.M',
